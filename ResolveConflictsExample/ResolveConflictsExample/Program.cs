@@ -14,8 +14,8 @@ namespace ResolveConflictsExample
             Console.WriteLine("second line of text");
             Console.WriteLine("third line of text");
             Console.WriteLine("added line of text into MirceaM branch");
-
-
+            Console.WriteLine("text on OtherBranch");
+            
             Console.Read();
         }
     }
