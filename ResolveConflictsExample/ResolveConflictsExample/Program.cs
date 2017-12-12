@@ -13,6 +13,8 @@ namespace ResolveConflictsExample
             Console.WriteLine("first line of text");
             Console.WriteLine("second line of text");
             Console.WriteLine("third line of text");
+            Console.WriteLine("added line of text into MirceaM branch");
+
 
             Console.Read();
         }
